@@ -4,7 +4,7 @@
 
 Submitted by: **Kelvin Nguyen**
 
-Time spent: **5** hours spent in total
+Time spent: **10** hours spent in total
 
 Link to project: https://glitch.com/~silly-capable-dawn
 
